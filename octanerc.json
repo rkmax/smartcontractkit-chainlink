@@ -1,0 +1,5 @@
+{
+    "pathsToAnalyze": [
+        "**/v0.8/**/*.sol"
+    ]
+}
